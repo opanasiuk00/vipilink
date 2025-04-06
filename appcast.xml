@@ -3,12 +3,12 @@
     <channel>
         <title>vipilink-macos</title>
         <item>
-            <title>0.9.9</title>
-            <pubDate>Mon, 07 Apr 2025 00:46:02 +0300</pubDate>
+            <title>1.0.0</title>
+            <pubDate>Mon, 07 Apr 2025 01:01:48 +0300</pubDate>
             <sparkle:version>80</sparkle:version>
-            <sparkle:shortVersionString>0.9.9</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/opanasiuk00/vipilink/releases/download/prood/Vipilink.dmg" length="31036704" type="application/octet-stream" sparkle:edSignature="VJGysp3W4qEaxuOAnr2n+No5ufhubiqRdS528HHL+6iVdrEcr/9cB+sTGIaBf+5Lf+7qkaA3RmKcmrx/InUaBg=="/>
+            <enclosure url="https://github.com/opanasiuk00/vipilink/releases/download/prood/Vipilink.dmg" length="31037105" type="application/octet-stream" sparkle:edSignature="+bU9f3OJoFB5luNmtHsmTX0aIZ2jaSXUUQOjVCw0n2fOBHDcBoRH/7JEB5oOeXuQt1Dg4jWwbKN47kF3LV5bBw=="/>
         </item>
     </channel>
 </rss>
