@@ -8,7 +8,7 @@
             <sparkle:version>81</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
-            <enclosure url="https://opanasiuk00.github.io/vipilink/Vipilink.dmg" length="93361664" type="application/octet-stream" sparkle:edSignature="RuefQ+9ojmW6b2S+8bRLnvuVc/5ep6eil2oBkkRwMKYpfkv0c+ubhaAHfouNqwCxyrPLEvvD1onWQ0bORarBDA=="/>
+            <enclosure url="https://github.com/opanasiuk00/vipilink/releases/download/prood/Vipilink.dmg" length="93361664" type="application/octet-stream" sparkle:edSignature="RuefQ+9ojmW6b2S+8bRLnvuVc/5ep6eil2oBkkRwMKYpfkv0c+ubhaAHfouNqwCxyrPLEvvD1onWQ0bORarBDA=="/>
         </item>
     </channel>
 </rss>
