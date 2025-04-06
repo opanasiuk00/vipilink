@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Vipilink</title>
+        <title>vipilink-macos</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 06 Apr 2025 22:04:12 +0300</pubDate>
-            <sparkle:version>81</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>0.9.9</title>
+            <pubDate>Mon, 07 Apr 2025 00:46:02 +0300</pubDate>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>0.9.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/opanasiuk00/vipilink/releases/download/prood/Vipilink.dmg" length="93361664" type="application/octet-stream" sparkle:edSignature="RuefQ+9ojmW6b2S+8bRLnvuVc/5ep6eil2oBkkRwMKYpfkv0c+ubhaAHfouNqwCxyrPLEvvD1onWQ0bORarBDA=="/>
+            <enclosure url="https://github.com/opanasiuk00/vipilink/releases/download/prood/Vipilink.dmg" length="31036704" type="application/octet-stream" sparkle:edSignature="VJGysp3W4qEaxuOAnr2n+No5ufhubiqRdS528HHL+6iVdrEcr/9cB+sTGIaBf+5Lf+7qkaA3RmKcmrx/InUaBg=="/>
         </item>
     </channel>
 </rss>
