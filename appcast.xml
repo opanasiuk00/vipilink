@@ -3,9 +3,9 @@
     <channel>
         <title>vipilink-macos</title>
         <item>
-            <title>1.0.2</title>
+            <title>1.0.1</title>
             <pubDate>Mon, 07 Apr 2025 01:17:42 +0300</pubDate>
-            <sparkle:version>82</sparkle:version>
+            <sparkle:version>81</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/opanasiuk00/vipilink/releases/download/prood/Vipilink.dmg" length="31037814" type="application/octet-stream" sparkle:edSignature="UNyFU4oH0E86VljT4oPbywGA50CtVmLqof3EHBYD9y6vDHfZrji/Rf0CdX0rio1GntlmtO+opQ7tM5tQmZ1WAw=="/>
